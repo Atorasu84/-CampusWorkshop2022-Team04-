@@ -1,1 +1,34 @@
-<p> bonjour tous le monde ! <p> 
+<!DOCTYPE HTML>
+<html lang="fr">
+	<head>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+		<title>Digital Consultant</title>
+	</head>
+	<body>
+		<div class="row" id="Général">
+			<header class="col-12 col-lg-12 col-sm-12">
+				<section id="navigation">
+					<article class="logo boutton">
+						<a href="index.html"><img src="logo.png" alt="logo Digital Consultant"/></a>
+					</article>
+					<article class="boutton">
+						<a href="Services.html">Nos Services</a>
+					</article>
+					<article class="boutton">
+						<a href="Propos.html">À propos</a>
+					</article>
+					<article class="boutton">
+						<a href="Partenaires.html">Nos patenaires</a>
+					</article>
+					<article class="boutton">
+						<a href="Blog.html">Blog</a>
+					</article>
+					<article class="boutton">
+						<a href="Contact.html">Nous contacter</a>
+					</article>
+				</section>
+			</header>
+
+		</div>
+	</body>
+</html>
